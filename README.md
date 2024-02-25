@@ -1,6 +1,7 @@
 # Project Name
 
 This project is named [Bursa'nın Tarihi Mekanları]. The project [A website featuring short descriptions and images of historical landmarks in Bursa.].
+The project can be viewed live [here](https://bursan-n-tarihi-yerleri.vercel.app/).
 
 ## General Information
 This project is a simple website that showcases historical landmarks in Bursa along with brief descriptions and images. It aims to provide users with a visually appealing and informative platform to learn about the rich history of Bursa's landmarks.
