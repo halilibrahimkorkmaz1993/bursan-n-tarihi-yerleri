@@ -6,7 +6,7 @@ function Places() {
   const [allPlaces, setAllPlaces] = useState([]);
 
   useEffect(() => {
-    fetch("../data/datas.json")
+    fetch("../../data/datas.json")
       .then((res) => res.json())
       .then((data) => setAllPlaces(data))
   }, []);
